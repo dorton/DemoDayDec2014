@@ -197,6 +197,7 @@ img {
     width: 100%;
     max-width: 7em;
     background-size: cover;
+    background-color: #efefef;
     background-position: center;
     display: inline-block;
 }
