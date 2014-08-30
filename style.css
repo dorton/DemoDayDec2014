@@ -143,11 +143,11 @@ p + p {
     width: 100%;
 }
 .grid-2 > * {
-    width: 50%;
+    width: 49%;
 }
 @media (min-width: 640px){
     .grid-2-640 > * {
-        width: 50%;
+        width: 49%;
     }
     /*.grid[mq ~= "-2-"]*/
 }
